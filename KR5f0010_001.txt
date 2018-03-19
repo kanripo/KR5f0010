@@ -4,8 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-<pb:KR5f0010_SBCK_000-3b>
-
 <pb:KR5f0010_SBCK_001-1a>
 墨子卷之一
 　　親士第一¶
@@ -309,3 +307,6 @@
 治天下也程繁曰子曰聖王無樂此亦樂巳¶
 ⬤之何其謂聖王無樂也子墨子曰聖王之¶
 命也多寡之食之利也以知饑而食之者智
+<md:KR5f0010_HFL_001-015b>¶<pb:KR5f0010_SBCK_001-20a>
+# SB1_0412-044.png
+# page missing
