@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
-
 <md:KR5f0010_HFL_008-001a>¶
 <pb:KR5f0010_SBCK_008-1a>
 墨子卷之八
@@ -321,3 +320,4 @@
 <pb:KR5f0010_SBCK_008-19b>
 爲物將不可不禁而止也¶¶¶
 墨子卷之八¶(終)
+<pb:KR5f0010_SBCK_008-20a>
