@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
-
 <md:KR5f0010_HFL_012-001a>¶
 <pb:KR5f0010_SBCK_012-1a>
 墨子卷之十二
@@ -280,3 +279,4 @@
 行是子之身亂也子不能治子之身惡能治¶
 國政子姑亡子之身亂之矣¶
 墨子卷之十二¶(終)
+<pb:KR5f0010_SBCK_012-17b>
